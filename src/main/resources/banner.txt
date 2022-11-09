@@ -23,7 +23,8 @@ bbbbbbbbbbbbbbbb   llllllll   ooooooooooo       gggggggg::::::g
                                             g::::::ggg:::::::g
                                             gg:::::::::::::g
                                               ggg::::::ggg
+
                                                  gggggg
-${AnsiColor.BLACK}
+${AnsiColor.BRIGHT_WHITE}
 Application Version: ${application.version}${application.formatted-version}
 Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
