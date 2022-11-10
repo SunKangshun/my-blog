@@ -2,7 +2,6 @@ package com.my.blog.website.dto;
 
 /**
  * 日志表的action字段
- * Created by Javanoteany on 2021/12/15.
  */
 public enum LogActions {
 

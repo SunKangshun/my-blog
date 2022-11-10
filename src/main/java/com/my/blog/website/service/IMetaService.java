@@ -7,7 +7,6 @@ import java.util.List;
 
 /**
  * 分类信息service接口
- * Created by Javanoteany on 2021/12/15.
  */
 public interface IMetaService {
     /**

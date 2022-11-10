@@ -16,8 +16,7 @@ import javax.sql.DataSource;
 import java.util.Arrays;
 
 /**
- * 借口aop
- * Created by Javanoteany on 2021/12/15.
+ * 接口aop
  */
 @Aspect
 @Component

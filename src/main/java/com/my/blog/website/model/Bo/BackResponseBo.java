@@ -2,9 +2,7 @@ package com.my.blog.website.model.Bo;
 
 import java.io.Serializable;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
+
 public class BackResponseBo implements Serializable {
 
     private String attachPath;

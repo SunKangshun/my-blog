@@ -6,9 +6,7 @@ import com.my.blog.website.utils.MapCache;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
+
 public abstract class BaseController {
 
     public static String THEME = "themes/default";

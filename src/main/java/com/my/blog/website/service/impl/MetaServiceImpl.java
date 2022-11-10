@@ -22,9 +22,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
+
 @Service
 public class MetaServiceImpl implements IMetaService {
     private static final Logger LOGGER = LoggerFactory.getLogger(MetaServiceImpl.class);

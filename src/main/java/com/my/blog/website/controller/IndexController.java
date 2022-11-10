@@ -35,10 +35,7 @@ import javax.servlet.http.HttpSession;
 import java.net.URLEncoder;
 import java.util.List;
 
-/**
- * 首页
- * Created by Javanoteany on 2021/12/15.
- */
+
 @Controller
 public class IndexController extends BaseController {
     private static final Logger LOGGER = LoggerFactory.getLogger(IndexController.class);
@@ -341,7 +338,7 @@ public class IndexController extends BaseController {
      * @param chits
      */
     @Transactional(rollbackFor = TipException.class)
-    private void updateArticleHit(Integer cid, Integer chits) {
+    public void updateArticleHit(Integer cid, Integer chits) {
         Integer hits = cache.hget("article", "hits");
         if (chits == null) {
             chits = 0;

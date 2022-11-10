@@ -4,9 +4,6 @@ import com.github.pagehelper.PageInfo;
 import com.my.blog.website.model.Vo.ContentVoExample;
 import com.my.blog.website.model.Vo.ContentVo;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
 public interface IContentService {
 
 //    /**

@@ -5,6 +5,7 @@ package com.my.blog.website.model.Bo;
  *
  * @param <T>
  */
+
 public class RestResponseBo<T> {
 
     /**

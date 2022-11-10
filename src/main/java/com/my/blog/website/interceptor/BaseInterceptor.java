@@ -17,7 +17,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 自定义拦截器
- * Created by Javanoteany on 2021/12/15.
  */
 @Component
 public class BaseInterceptor implements HandlerInterceptor {

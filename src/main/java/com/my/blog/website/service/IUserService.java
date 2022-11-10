@@ -2,9 +2,6 @@ package com.my.blog.website.service;
 
 import com.my.blog.website.model.Vo.UserVo;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
 public interface IUserService {
 
     /**

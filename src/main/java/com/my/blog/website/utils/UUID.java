@@ -3,7 +3,6 @@ package com.my.blog.website.utils;
 
 import java.util.Arrays;
 import java.util.Random;
-
 /**
  * 封装UUID
  */

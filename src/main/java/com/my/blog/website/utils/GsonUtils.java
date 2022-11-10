@@ -4,7 +4,6 @@ import com.google.gson.Gson;
 
 /**
  * json转换工具
- * Created by Javanoteany on 2021/12/15.
  */
 public class GsonUtils {
 

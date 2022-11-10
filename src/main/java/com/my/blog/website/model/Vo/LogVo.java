@@ -1,7 +1,6 @@
 package com.my.blog.website.model.Vo;
 
 import java.io.Serializable;
-
 /**
  * @author 
  */

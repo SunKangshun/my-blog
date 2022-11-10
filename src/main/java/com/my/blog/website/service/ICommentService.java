@@ -5,9 +5,6 @@ import com.my.blog.website.model.Vo.CommentVo;
 import com.my.blog.website.model.Vo.CommentVoExample;
 import com.my.blog.website.model.Bo.CommentBo;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
 public interface ICommentService {
 
     /**

@@ -4,7 +4,6 @@ public class FK {
     private String column;
     private Table referenceTable;
     private String referencePK;
-
     public Table getReferenceTable() {
         return referenceTable;
     }

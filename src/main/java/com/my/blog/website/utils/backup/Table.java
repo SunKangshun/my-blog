@@ -30,6 +30,7 @@ public class Table {
 	}
 	
 	public boolean isReferenced(Table referenceTable){
+
 		return constraints.isReferenced(referenceTable);
 	}
 }

@@ -11,7 +11,6 @@ import javax.annotation.Resource;
 
 /**
  * 向mvc中添加自定义组件
- * Created by Javanoteany on 2021/12/15.
  */
 @Component
 public class WebMvcConfig extends WebMvcConfigurerAdapter {

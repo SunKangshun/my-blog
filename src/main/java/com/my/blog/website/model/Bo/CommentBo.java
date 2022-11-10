@@ -4,10 +4,7 @@ import com.my.blog.website.model.Vo.CommentVo;
 
 import java.util.List;
 
-/**
- * 返回页面的评论，包含父子评论内容
- * Created by Javanoteany on 2021/12/15.
- */
+
 public class CommentBo extends CommentVo {
 
     private int levels;

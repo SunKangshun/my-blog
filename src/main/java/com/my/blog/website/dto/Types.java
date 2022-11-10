@@ -1,5 +1,4 @@
 package com.my.blog.website.dto;
-
 public enum Types {
     TAG("tag"),
     CATEGORY("category"),

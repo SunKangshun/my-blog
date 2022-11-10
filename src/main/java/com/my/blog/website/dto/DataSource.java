@@ -2,7 +2,6 @@ package com.my.blog.website.dto;
 
 /**
  * 建立数据库连接的参数对象
- * Created by Javanoteany on 2021/12/15.
  */
 public class DataSource {
 

@@ -24,7 +24,6 @@ import java.util.regex.Pattern;
 /**
  * 主题公共函数
  * <p>
- * Created by Javanoteany on 2021/12/15.
  */
 @Component
 public final class Commons {

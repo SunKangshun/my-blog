@@ -7,9 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class DataTable extends ArrayList<Row> {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = -3057968190529400383L;
 
 	public static DataTable execute(Connection connection, String query)

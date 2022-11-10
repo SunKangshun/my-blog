@@ -3,9 +3,6 @@ package com.my.blog.website.service;
 import com.github.pagehelper.PageInfo;
 import com.my.blog.website.model.Vo.AttachVo;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
 public interface IAttachService {
     /**
      * 分页查询附件

@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
 /**
  * 后台公共函数
  * <p>
- * Created by Javanoteany on 2021/12/15.
  */
 @Component
 public final class AdminCommons {

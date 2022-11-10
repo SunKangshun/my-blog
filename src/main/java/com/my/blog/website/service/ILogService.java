@@ -4,9 +4,6 @@ import com.my.blog.website.model.Vo.LogVo;
 
 import java.util.List;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
 public interface ILogService {
 
     /**

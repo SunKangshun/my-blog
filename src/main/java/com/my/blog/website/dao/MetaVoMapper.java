@@ -9,7 +9,6 @@ import java.util.Map;
 
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Component;
-
 @Component
 public interface MetaVoMapper {
     long countByExample(MetaVoExample example);

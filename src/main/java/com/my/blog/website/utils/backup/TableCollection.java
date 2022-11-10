@@ -3,10 +3,6 @@ package com.my.blog.website.utils.backup;
 import java.util.ArrayList;
 
 public class TableCollection extends ArrayList<Table> {
-
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = -5824322959198795936L;
 
 	/**

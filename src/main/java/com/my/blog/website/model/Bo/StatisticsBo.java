@@ -5,6 +5,7 @@ import java.io.Serializable;
 /**
  * 后台统计对象
  */
+
 public class StatisticsBo implements Serializable {
 
     private Long articles;

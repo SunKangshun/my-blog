@@ -24,9 +24,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * Created by Javanoteany on 2021/12/15.
- */
+
 @Service
 public class ContentServiceImpl implements IContentService {
     private static final Logger LOGGER = LoggerFactory.getLogger(ContentServiceImpl.class);

@@ -11,8 +11,6 @@ import java.util.List;
 
 /**
  * 站点服务
- *
- * Created by Javanoteany on 2021/12/15.
  */
 public interface ISiteService {
 

@@ -31,7 +31,6 @@ import java.util.regex.Pattern;
 /**
  * Tale工具类
  * <p>
- * Created by Javanoteany on 2021/12/15.
  */
 public class TaleUtils {
     private static final Logger LOGGER = LoggerFactory.getLogger(TaleUtils.class);

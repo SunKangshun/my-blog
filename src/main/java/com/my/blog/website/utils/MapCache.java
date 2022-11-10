@@ -6,7 +6,6 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * map缓存实现
  * <p>
- * Created by Javanoteany on 2021/12/15.
  */
 public class MapCache {
 
